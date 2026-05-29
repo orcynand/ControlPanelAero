@@ -45,4 +45,4 @@ python main.py
 ```
 
 ## Project Credits
-Developed by **CyberArtel**, with architectural assistance from an AI collaborator.
+Developed by **Orcynand**, with architectural assistance from an AI collaborator.
